@@ -1,3 +1,5 @@
+#This is a Library Management Program
+#You can add any slow relaxing music which plays in background in library
 from pygame import mixer
 
 mixer.init()
